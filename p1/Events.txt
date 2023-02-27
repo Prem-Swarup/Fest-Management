@@ -1,0 +1,48 @@
+Chess.come
+Himanshu Phogat
+It is a Knockout Chess Tournanment.
+27062022 1500
+6
+6
+1
+
+Tribhanga
+Prem Jain
+It is an Solo Dance Competition.
+26062022 1100
+8
+3
+1
+
+
+FaceChange
+Akhil Akhire
+It is a painting Competition.
+27062022 2000
+3
+7
+1
+
+TreasureHunt
+Aryan GeeS
+It is a TreasureHunt Event.
+26062022 1800
+2
+7
+1
+
+Masterchef
+Rajesh Lefty
+it is a cooking competition
+27062022 1500
+3
+2
+1
+
+Sizzle
+Prashant Kyaare
+It is a Solo Singing Competition.
+28062022 1400
+9
+8
+1
